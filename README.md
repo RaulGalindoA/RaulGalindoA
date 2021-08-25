@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hola, soy Raúl Galindo 👋
+Soy estudiante de *Ingeniería en Sistemas Computacionales* de 7mo Semestre, Me gusta mucho la programación, y quiero aprender distintos tipos de programación para diferentes plataformas :computer:, también me gusta mucho el fútbol :soccer:.
+
+* Actualmente estoy trabajando con **Angular** y sigo aprendiendo más y más de este FrameWork tan completo e interesante, *buscando también aprender otros como VUE y REACT* :iphone:.
+* Manejo lenguajes de programación tales como **Java, Javascript y Typescript**, además de **HTML** y **CSS**, también algunos gestores de bases de datos como lo son **MySQL**, **PostGreSQL** y algo de **Oracle** :minidisc:.
+
+
 
 <!--
 **RaulGalindoA/RaulGalindoA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
